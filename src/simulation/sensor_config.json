@@ -1,0 +1,19 @@
+[
+  { "id": "sensor-office-01", "base_temp": 21.0, "drift_range": 0.3 },
+  { "id": "sensor-office-02", "base_temp": 20.5, "drift_range": 0.2 },
+  { "id": "sensor-office-03", "base_temp": 22.0, "drift_range": 0.4 },
+  { "id": "sensor-office-04", "base_temp": 21.5, "drift_range": 0.3 },
+  { "id": "sensor-office-05", "base_temp": 19.8, "drift_range": 0.2 },
+
+  { "id": "sensor-warehouse-01", "base_temp": 15.5, "drift_range": 0.8 },
+  { "id": "sensor-warehouse-02", "base_temp": 14.0, "drift_range": 0.9 },
+  { "id": "sensor-warehouse-03", "base_temp": 16.2, "drift_range": 0.7 },
+  { "id": "sensor-warehouse-04", "base_temp": 12.5, "drift_range": 1.2 },
+  { "id": "sensor-warehouse-05", "base_temp": 17.0, "drift_range": 0.6 },
+
+  { "id": "sensor-serverroom-01", "base_temp": 18.0, "drift_range": 0.1 },
+  { "id": "sensor-serverroom-02", "base_temp": 17.5, "drift_range": 0.05 },
+  { "id": "sensor-serverroom-03", "base_temp": 19.0, "drift_range": 0.15 },
+  { "id": "sensor-serverroom-04", "base_temp": 18.2, "drift_range": 0.1 },
+  { "id": "sensor-serverroom-05", "base_temp": 17.8, "drift_range": 0.08 }
+]
