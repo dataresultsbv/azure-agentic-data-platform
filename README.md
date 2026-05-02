@@ -8,19 +8,13 @@ The first version of the platform will have synthetic telemetry data ingestion a
 
 ## Why This Project
 
-I am a Data Platform Lead with over 15 years of experience in business intelligence and data engineering. From the start of my career, I have worked extensively with on-premise data platforms and have been part of the transition towards modern cloud-based architectures. Currently, we are entering a new wave of innovation in the data landscape: the rise of Agentic AI systems. Unlike traditional data platforms that focus primarily on ingestion, transformation, and reporting, these systems introduce autonomous decision-making, reasoning, and action-taking capabilities. This shift requires a fundamentally different approach to system design.
+With over 15 years of experience in BI and data platforms, I have worked across the evolution from on-premise systems to modern cloud architectures on Azure. Currently, a new shift is emerging: from data platforms that process information to systems that can reason, decide, and act.
 
-Personally I am also riding the wave from Data Platform Lead towards a Agentic AI Platform Architect. This project is a hands-on exploration from myself in achieving my goals. See it as a portfolio to demonstrate the things I learn in my path towards multiple new Azure certifications. 
+This project captures that transition.
 
-The first version starts with a solid, cloud-native data engineering foundation: simulating IoT telemetry, building ingestion pipelines, and applying infrastructure-as-code principles. From there, it incrementally evolves into a more advanced architecture that incorporates AI agents, intelligent processing, and eventually multi-agent orchestration.
+The first version starts with a solid data engineering foundation—simulated IoT ingestion, cloud-native pipelines, and infrastructure-as-code and evolves into an agentic AI platform with autonomous decision-making capabilities in later versions.
 
-The goal is not just to build a working system, but to demonstrate architectural thinking across multiple stages of maturity:
-
-From batch-based ingestion to intelligent, metadata driven data processing.
-From static pipelines to adaptive, agent-driven workflows.
-From infrastructure-focused design to end-to-end intelligent systems.
-
-By continuously expanding this project with new capabilities (AI agents, Kubernetes, MLOps, and orchestration), it becomes a living representation of how modern data platforms are evolving towards intelligent, autonomous systems.
+The focus is not just on building components, but on designing systems that scale from data processing to intelligent, agent-driven architectures. This aligns with the next generation of Azure solutions and the path towards Agentic AI architecture.
 
 ## Goals
 
