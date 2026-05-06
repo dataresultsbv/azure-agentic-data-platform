@@ -50,11 +50,13 @@ The focus is not just on building components, but on designing systems that scal
 * IoT simulation
 * Blob storage ingestion
 * Terraform deployment
+* Docker containerization 
+* Github Actions CICD
 
 ### V2 – AI Agents
 
 * Anomaly detection agent
-* AI-based summarization (Azure OpenAI)
+* AI-based summarization
 
 ### V3 – Scalable Platform
 
