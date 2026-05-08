@@ -6,9 +6,9 @@ This project simulates an end-to-end IoT data platform on Azure, evolving toward
 
 The first version of the platform will have synthetic telemetry data ingestion and then incrementally expands into intelligent processing, scalable infrastructure, and AI agent orchestration in future versions.
 
-## Why This Project
+## Background
 
-With over 15 years of experience in BI and data platforms, I have worked across the evolution from on-premise systems to modern cloud architectures on Azure. Currently, a new shift is emerging: from data platforms that process information to systems that can reason, decide, and act.
+With over 15 years of experience in BI and data platforms, I have worked across the evolution from on-premise systems to modern cloud architectures on Azure. Currently, a new shift is emerging. The shift from data platforms that process information to systems that can reason, decide, and act.
 
 This project captures that transition.
 
@@ -38,10 +38,6 @@ The focus is not just on building components, but on designing systems that scal
 * Docker (Containerization)
 * Python (Data simulation)
 * GitHub Actions (Orchestration)
-
-## Data Structure
-
-/raw/year=YYYY/month=MM/day=DD/sensor_data.json
 
 ## Roadmap
 
