@@ -12,7 +12,7 @@ With over 15 years of experience in BI and data platforms, I have worked across 
 
 This project captures that transition.
 
-The first version starts with a solid data engineering foundation simulated IoT ingestion, cloud-native pipelines, and infrastructure-as-code and evolves into an agentic AI platform with autonomous decision-making capabilities in later versions.
+The first version starts with a solid data engineering foundation with simulated IoT ingestion, cloud-native pipelines, and infrastructure-as-code and evolves into an agentic AI platform with autonomous decision-making capabilities in later versions.
 
 The focus is not just on building components, but on designing systems that scale from data processing to intelligent, agent-driven architectures. This aligns with the next generation of Azure solutions and the path towards Agentic AI architecture.
 
