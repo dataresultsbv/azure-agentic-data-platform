@@ -1,2 +1,17 @@
-## Create job on opening PR or push commit -- Build + testing stage image and in parallel lint. THen UT and then integration test and then CVE scan
+## Create job on opening PR or push commit -- 
+##    1a. Build + testing stage image 
+##          Use Buildkit caching on your docker build.
+##          Check for use of QEMU is it needed?
+##    1b. in parallel lint. 
+##    2. THen UT 
+##          docker/build-push-action
+##          Then a run command for a "docker run -rm echo <test commands to run on container> "
+##    3.  then integration test
+##          If need be test the container with other containers with Compose
+##    4. then CVE scan
+##          Run trivy for CVE scans (non blocking)
+##          Upload Trivy scan results to Githun Security tab
+
 ## Create job on merging PR -- push to registry and deploy
+##          Use Dynamic tags and metadata on push to registry
+##          Couple pr comments to pass metadata threw
