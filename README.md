@@ -4,7 +4,7 @@
 
 This project simulates an end-to-end IoT data platform on Azure, evolving towards an agentic AI-driven system capable of autonomous decision-making.
 
-The first version of the platform will have synthetic telemetry data ingestion and then incrementally expands into intelligent processing, scalable infrastructure, and AI agent orchestration in future versions.
+The first version of the platform will have synthetic telemetry data ingestion and then incrementally expands into intelligent processing, scalable infrastructure, and AI agent orchestration in future versions. Each Version has its own folder, code, infra and ci/cd.
 
 ## Background
 
