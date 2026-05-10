@@ -1,0 +1,2 @@
+## Create job on opening PR or push commit -- Build + testing stage image and in parallel lint. THen UT and then integration test and then CVE scan
+## Create job on merging PR -- push to registry and deploy
